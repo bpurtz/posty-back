@@ -1,0 +1,9 @@
+{
+  "name": "posty-back",
+  "version": "1.0.0",
+  "description": "A backend assignment from 1800-Flowers",
+  "main": "index.js",
+  "author": "Benjamin Purtzer",
+  "license": "MIT",
+  "private": false
+}
